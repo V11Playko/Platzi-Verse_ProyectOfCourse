@@ -2,9 +2,9 @@
 > **Proyecto de curso**
 This is a project from a Platzi course, the course is approximately 4 years old....
 
--Some NPM modules will be deprecated.
+- Some NPM modules will be deprecated.
 
--There will be errors in the code (I'll fix that though).
+- There will be errors in the code (I'll fix that though).
 
 # Project Architecture
 ![](https://i.imgur.com/SeEckP4.jpg)

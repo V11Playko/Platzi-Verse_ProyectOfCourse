@@ -4,9 +4,13 @@
   "description": "Proyecto de curso aja aja  aja aja",
   "main": "index.js",
   "dependencies": {
+    "pg": "^8.7.1",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.13.0"
+  },
+  "devDependencies": {
     "standard": "^16.0.4"
   },
-  "devDependencies": {},
   "scripts": {
     "lint": "standard"
   },
