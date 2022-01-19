@@ -6,7 +6,7 @@ This is a project from a Platzi course, the course is approximately 4 years old.
 
 - There will be errors in the code (I'll fix that though).
 
-# Project Architecture
+# Project Architecture and Components
 ![](https://i.imgur.com/SeEckP4.jpg)
 
 # Commands for the code to run
