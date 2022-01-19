@@ -1,0 +1,23 @@
+{
+  "name": "platzi-verse_proyectofcourse",
+  "version": "1.0.0",
+  "description": "Proyecto de curso aja aja  aja aja",
+  "main": "index.js",
+  "dependencies": {
+    "standard": "^16.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "lint": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/V11Playko/Platzi-Verse_ProyectOfCourse.git"
+  },
+  "author": "Heinner Vega",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/V11Playko/Platzi-Verse_ProyectOfCourse/issues"
+  },
+  "homepage": "https://github.com/V11Playko/Platzi-Verse_ProyectOfCourse#readme"
+}
