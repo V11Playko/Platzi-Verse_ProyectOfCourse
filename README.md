@@ -11,4 +11,5 @@ This is a project from a Platzi course, the course is approximately 4 years old.
 
 # Commands for the code to run
 > **npm run lint – --fix**
+
 In case you have an error, this command helps you correct it. By the way, you have to download the Standard module
