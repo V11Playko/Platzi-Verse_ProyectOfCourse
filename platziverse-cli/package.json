@@ -8,5 +8,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Heinner Vega",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^10.0.3"
+  },
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.7.5",
+    "platziverse-agent": "file:../platziverse-agent"
+  }
 }
